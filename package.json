@@ -9,7 +9,7 @@
   "dependencies": {
     "@duplojs/http": "0.11.0",
     "@duplojs/server-utils": "0.2.3",
-    "@duplojs/utils": "1.6.4"
+    "@duplojs/utils": "1.6.5"
   },
   "devDependencies": {
     "@commitlint/cli": "20.5.0",
